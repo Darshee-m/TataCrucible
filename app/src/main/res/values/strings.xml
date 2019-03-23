@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Dwell</string>
+    <string name="google_maps_key">AIzaSyBLC916S5l5KGJp4h7_aw20WY0mJxrvVTg</string>
+    <string name="settings_label">Settings</string>
+    <string name="enable_geofences">Enable Geofences</string>
+    <string name="ringer_permissions">Ringer Permissions</string>
+    <string name="add_new_location">Add new location</string>
+    <string name="luminance">Take a Picture to help with Luminance</string>
+    <string name="noise">Record the noise</string>
+    <string name="pothole_detection">Pothole Detection</string>
+    <string name="location_list">Locations</string>
+    <string name="location_permissions_granted_message">Location Permissions Granted</string>
+    <string name="location_permissions">Location Permissions</string>
+    <string name="need_location_permission_message">You need to enable location permissions first</string>
+
+</resources>

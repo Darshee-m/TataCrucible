@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "613382388881",
+    "firebase_url": "https://smartcity-5daac.firebaseio.com",
+    "project_id": "smartcity-5daac",
+    "storage_bucket": "smartcity-5daac.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:613382388881:android:ac39915d1e1d21b6",
+        "android_client_info": {
+          "package_name": "com.example.pranavichoudhary.dwell"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "613382388881-0dvjs2mlf1787dprprhfv3172093ejl5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.pranavichoudhary.dwell",
+            "certificate_hash": "c75df126414d5723d93279732b043103b92e4286"
+          }
+        },
+        {
+          "client_id": "613382388881-tvr8lo41vtp350ampfb38tjokjp9mvrb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAsp8tFuISzEpRN0v_XYnduBSNHBOtvEjs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "613382388881-tvr8lo41vtp350ampfb38tjokjp9mvrb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
